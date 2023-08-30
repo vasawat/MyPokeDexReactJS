@@ -88,8 +88,8 @@ function pokedex() {
     <div>
 
         <div className='d-flex justify-content-center mt-5'>
-            <button className='btn btn-primary btn-lg m-1' onClick={prev100}>Previos -100</button>
-            <button className='btn btn-primary btn-lg m-1' onClick={prev}>Previos</button>
+            <button className='btn btn-primary btn-lg m-1' onClick={prev100}>Previous -100</button>
+            <button className='btn btn-primary btn-lg m-1' onClick={prev}>Previous</button>
             <button className='btn btn-success btn-lg m-1' onClick={next}>Next</button>
             <button className='btn btn-success btn-lg m-1' onClick={next100}>Next +100</button>
         </div>
